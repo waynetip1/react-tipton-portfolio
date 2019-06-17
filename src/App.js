@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import Home from "./pages/Home";
 import Resume from "./pages/Resume";
-import PDF from "./components/PDF";
 import Projects from "./pages/Projects";
 import Tools from "./pages/Tools";
 import Contact from "./pages/Contact";

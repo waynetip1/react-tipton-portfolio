@@ -7,7 +7,7 @@ export default class Skills extends Component {
       {
         icon: <DiReact />,
         title: "React.js",
-        info: "Proficient at building React.js single page apps with Redux."
+        info: "Proficient at building React.js single page apps."
       },
       {
         icon: <DiJavascript1 />,
